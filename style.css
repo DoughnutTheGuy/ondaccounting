@@ -816,7 +816,7 @@ footer .wrapper .right div .value {
    }
 
    main {
-      background-image: url("/assets/sec2-bg.png");
+      background-image: url("assets/sec2-bg.png");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: 37% 0px;
